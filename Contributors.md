@@ -201,6 +201,7 @@
 - [Harsh P V](https://github.com/harshpv07)
 - [Deepanshu Sharma](https://github.com/Deepanshu-Sharma-18)
 - [Leonardo Moura](https://github.com/leonardommascarenhas)
+- [Emily Peguero](https://github.com/emilymania)
 - Sabya
 - Rio
 - Justin Valdez
